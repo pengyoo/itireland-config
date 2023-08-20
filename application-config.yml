@@ -1,2 +1,2 @@
-property:
-  key: IT is very good!
+server:
+  port: 7777
